@@ -1,11 +1,16 @@
 [
-  {"Hello Git":[
+  {
+    "folder":"Hello Git",
+    "posts":[
       {"index":1,"desc":"git常用命令","url":"1-git"},
       {"index":2,"desc":"部署项目到github","url":"2-github1"},
       {"index":3,"desc":"从github克隆项目在本地运行","url":"3-github2"},
       {"index":4,"desc":"gitbook","url":"4-gitbook"}
     ]},
-  {"React" :[
+
+  {
+    "folder":"React",
+    "posts" :[
     {"index":5,"desc":"helloReact","url":"1-react"}
     ]}
 ]
